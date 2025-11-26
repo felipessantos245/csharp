@@ -1,0 +1,18 @@
+D:\csharp careca\Baskhara\Formula de Baskhara\bin\Debug\net7.0-windows\Formula de Baskhara.exe
+D:\csharp careca\Baskhara\Formula de Baskhara\bin\Debug\net7.0-windows\Formula de Baskhara.deps.json
+D:\csharp careca\Baskhara\Formula de Baskhara\bin\Debug\net7.0-windows\Formula de Baskhara.runtimeconfig.json
+D:\csharp careca\Baskhara\Formula de Baskhara\bin\Debug\net7.0-windows\Formula de Baskhara.dll
+D:\csharp careca\Baskhara\Formula de Baskhara\bin\Debug\net7.0-windows\Formula de Baskhara.pdb
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.csproj.AssemblyReference.cache
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula_de_Baskhara.Form1.resources
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula_de_Baskhara.Properties.Resources.resources
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.csproj.GenerateResource.cache
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.AssemblyInfoInputs.cache
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.AssemblyInfo.cs
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.csproj.CoreCompileInputs.cache
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.dll
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\refint\Formula de Baskhara.dll
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.pdb
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\Formula de Baskhara.genruntimeconfig.cache
+D:\csharp careca\Baskhara\Formula de Baskhara\obj\Debug\net7.0-windows\ref\Formula de Baskhara.dll
