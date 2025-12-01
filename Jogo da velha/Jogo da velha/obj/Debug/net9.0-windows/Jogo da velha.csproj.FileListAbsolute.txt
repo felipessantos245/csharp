@@ -1,0 +1,16 @@
+D:\Vs code careca\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.exe
+D:\Vs code careca\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.deps.json
+D:\Vs code careca\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.runtimeconfig.json
+D:\Vs code careca\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.dll
+D:\Vs code careca\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.pdb
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo_da_velha.Velha.resources
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.csproj.GenerateResource.cache
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.AssemblyInfoInputs.cache
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.AssemblyInfo.cs
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.csproj.CoreCompileInputs.cache
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.dll
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\refint\Jogo da velha.dll
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.pdb
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.genruntimeconfig.cache
+D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\ref\Jogo da velha.dll
