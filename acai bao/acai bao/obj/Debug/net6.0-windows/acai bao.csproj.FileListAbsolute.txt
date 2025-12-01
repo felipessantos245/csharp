@@ -1,0 +1,17 @@
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\bin\Debug\net6.0-windows\acai bao.exe
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\bin\Debug\net6.0-windows\acai bao.deps.json
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\bin\Debug\net6.0-windows\acai bao.runtimeconfig.json
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\bin\Debug\net6.0-windows\acai bao.dll
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\bin\Debug\net6.0-windows\acai bao.pdb
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai_bao.Form1.resources
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai_bao.Properties.Resources.resources
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai bao.csproj.GenerateResource.cache
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai bao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai bao.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai bao.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai bao.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai bao.dll
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\refint\acai bao.dll
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai bao.pdb
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\acai bao.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21104186\Desktop\acai bao\acai bao\obj\Debug\net6.0-windows\ref\acai bao.dll
