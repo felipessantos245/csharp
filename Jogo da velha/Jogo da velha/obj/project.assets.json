@@ -8,23 +8,23 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Senai.CEPEAS21104186\\.nuget\\packages\\": {},
+    "C:\\Users\\vitor\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vs code careca\\Jogo da velha\\Jogo da velha\\Jogo da velha.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Jogo da velha\\Jogo da velha\\Jogo da velha.csproj",
       "projectName": "Jogo da velha",
-      "projectPath": "D:\\Vs code careca\\Jogo da velha\\Jogo da velha\\Jogo da velha.csproj",
-      "packagesPath": "C:\\Users\\Senai.CEPEAS21104186\\.nuget\\packages\\",
-      "outputPath": "D:\\Vs code careca\\Jogo da velha\\Jogo da velha\\obj\\",
+      "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Jogo da velha\\Jogo da velha\\Jogo da velha.csproj",
+      "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Jogo da velha\\Jogo da velha\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Senai.CEPEAS21104186\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,7 +52,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0-windows7.0": {
@@ -76,7 +76,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

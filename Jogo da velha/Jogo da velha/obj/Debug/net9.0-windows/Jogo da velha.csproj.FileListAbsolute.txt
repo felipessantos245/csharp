@@ -14,3 +14,19 @@ D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\refint\Jo
 D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.pdb
 D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.genruntimeconfig.cache
 D:\Vs code careca\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\ref\Jogo da velha.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\bin\Debug\net9.0-windows\Jogo da velha.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo_da_velha.Velha.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\refint\Jogo da velha.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\Jogo da velha.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Jogo da velha\Jogo da velha\obj\Debug\net9.0-windows\ref\Jogo da velha.dll

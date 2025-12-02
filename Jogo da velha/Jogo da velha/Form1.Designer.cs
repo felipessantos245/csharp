@@ -37,9 +37,6 @@
             button7 = new Button();
             button8 = new Button();
             button9 = new Button();
-            groupBox1 = new GroupBox();
-            Player2 = new TextBox();
-            Player1 = new TextBox();
             Placar = new GroupBox();
             Placar2 = new Label();
             Placar1 = new Label();
@@ -51,7 +48,7 @@
             Reset = new Button();
             Play = new Button();
             Exit = new Button();
-            groupBox1.SuspendLayout();
+            labelStatus = new Label();
             Placar.SuspendLayout();
             opcao.SuspendLayout();
             SuspendLayout();
@@ -63,7 +60,7 @@
             button1.Size = new Size(86, 74);
             button1.TabIndex = 0;
             button1.UseVisualStyleBackColor = true;
-            button1.Click += button_Click;
+            button1.Click += Button_CLick;
             // 
             // button2
             // 
@@ -72,7 +69,7 @@
             button2.Size = new Size(86, 74);
             button2.TabIndex = 1;
             button2.UseVisualStyleBackColor = true;
-            button2.Click += button_Click;
+            button2.Click += Button_CLick;
             // 
             // button3
             // 
@@ -81,7 +78,7 @@
             button3.Size = new Size(86, 74);
             button3.TabIndex = 2;
             button3.UseVisualStyleBackColor = true;
-            button3.Click += button_Click;
+            button3.Click += Button_CLick;
             // 
             // button4
             // 
@@ -90,7 +87,7 @@
             button4.Size = new Size(86, 74);
             button4.TabIndex = 3;
             button4.UseVisualStyleBackColor = true;
-            button4.Click += button_Click;
+            button4.Click += Button_CLick;
             // 
             // button5
             // 
@@ -99,7 +96,7 @@
             button5.Size = new Size(86, 74);
             button5.TabIndex = 4;
             button5.UseVisualStyleBackColor = true;
-            button5.Click += button_Click;
+            button5.Click += Button_CLick;
             // 
             // button6
             // 
@@ -108,7 +105,7 @@
             button6.Size = new Size(86, 74);
             button6.TabIndex = 5;
             button6.UseVisualStyleBackColor = true;
-            button6.Click += button_Click;
+            button6.Click += Button_CLick;
             // 
             // button7
             // 
@@ -117,7 +114,7 @@
             button7.Size = new Size(86, 74);
             button7.TabIndex = 6;
             button7.UseVisualStyleBackColor = true;
-            button7.Click += button_Click;
+            button7.Click += Button_CLick;
             // 
             // button8
             // 
@@ -126,7 +123,7 @@
             button8.Size = new Size(86, 74);
             button8.TabIndex = 7;
             button8.UseVisualStyleBackColor = true;
-            button8.Click += button_Click;
+            button8.Click += Button_CLick;
             // 
             // button9
             // 
@@ -135,40 +132,15 @@
             button9.Size = new Size(86, 74);
             button9.TabIndex = 8;
             button9.UseVisualStyleBackColor = true;
-            button9.Click += button_Click;
-            // 
-            // groupBox1
-            // 
-            groupBox1.Controls.Add(Player2);
-            groupBox1.Controls.Add(Player1);
-            groupBox1.Location = new Point(12, 12);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(200, 112);
-            groupBox1.TabIndex = 9;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "Jogadores";
-            // 
-            // Player2
-            // 
-            Player2.Location = new Point(6, 71);
-            Player2.Name = "Player2";
-            Player2.Size = new Size(178, 33);
-            Player2.TabIndex = 11;
-            // 
-            // Player1
-            // 
-            Player1.Location = new Point(6, 32);
-            Player1.Name = "Player1";
-            Player1.Size = new Size(178, 33);
-            Player1.TabIndex = 10;
+            button9.Click += Button_CLick;
             // 
             // Placar
             // 
             Placar.Controls.Add(Placar2);
             Placar.Controls.Add(Placar1);
-            Placar.Location = new Point(218, 12);
+            Placar.Location = new Point(12, 12);
             Placar.Name = "Placar";
-            Placar.Size = new Size(200, 112);
+            Placar.Size = new Size(200, 129);
             Placar.TabIndex = 10;
             Placar.TabStop = false;
             Placar.Text = "Placar";
@@ -178,7 +150,7 @@
             Placar2.AutoSize = true;
             Placar2.Location = new Point(6, 74);
             Placar2.Name = "Placar2";
-            Placar2.Size = new Size(0, 25);
+            Placar2.Size = new Size(0, 32);
             Placar2.TabIndex = 1;
             // 
             // Placar1
@@ -186,7 +158,7 @@
             Placar1.AutoSize = true;
             Placar1.Location = new Point(6, 35);
             Placar1.Name = "Placar1";
-            Placar1.Size = new Size(0, 25);
+            Placar1.Size = new Size(0, 32);
             Placar1.TabIndex = 0;
             // 
             // opcao
@@ -195,9 +167,9 @@
             opcao.Controls.Add(bolinha);
             opcao.Controls.Add(label1);
             opcao.Controls.Add(label2);
-            opcao.Location = new Point(424, 12);
+            opcao.Location = new Point(231, 12);
             opcao.Name = "opcao";
-            opcao.Size = new Size(200, 112);
+            opcao.Size = new Size(200, 129);
             opcao.TabIndex = 11;
             opcao.TabStop = false;
             opcao.Text = "Opções";
@@ -205,20 +177,21 @@
             // xis
             // 
             xis.AutoSize = true;
-            xis.Location = new Point(12, 67);
+            xis.Location = new Point(12, 74);
             xis.Name = "xis";
-            xis.Size = new Size(42, 29);
+            xis.Size = new Size(50, 36);
             xis.TabIndex = 3;
             xis.TabStop = true;
             xis.Text = "X";
             xis.UseVisualStyleBackColor = true;
+            xis.CheckedChanged += xis_CheckedChanged;
             // 
             // bolinha
             // 
             bolinha.AutoSize = true;
             bolinha.Location = new Point(12, 32);
             bolinha.Name = "bolinha";
-            bolinha.Size = new Size(44, 29);
+            bolinha.Size = new Size(53, 36);
             bolinha.TabIndex = 2;
             bolinha.TabStop = true;
             bolinha.Text = "O";
@@ -230,7 +203,7 @@
             label1.AutoSize = true;
             label1.Location = new Point(6, 74);
             label1.Name = "label1";
-            label1.Size = new Size(0, 25);
+            label1.Size = new Size(0, 32);
             label1.TabIndex = 1;
             // 
             // label2
@@ -238,15 +211,15 @@
             label2.AutoSize = true;
             label2.Location = new Point(6, 35);
             label2.Name = "label2";
-            label2.Size = new Size(0, 25);
+            label2.Size = new Size(0, 32);
             label2.TabIndex = 0;
             // 
             // Reset
             // 
             Reset.FlatStyle = FlatStyle.Popup;
-            Reset.Location = new Point(127, 130);
+            Reset.Location = new Point(138, 161);
             Reset.Name = "Reset";
-            Reset.Size = new Size(109, 34);
+            Reset.Size = new Size(133, 47);
             Reset.TabIndex = 12;
             Reset.Text = "Reiniciar";
             Reset.UseVisualStyleBackColor = true;
@@ -255,36 +228,44 @@
             // Play
             // 
             Play.FlatStyle = FlatStyle.Popup;
-            Play.Location = new Point(12, 130);
+            Play.Location = new Point(12, 161);
             Play.Name = "Play";
-            Play.Size = new Size(109, 34);
+            Play.Size = new Size(120, 47);
             Play.TabIndex = 13;
             Play.Text = "Começar";
             Play.UseVisualStyleBackColor = true;
+            Play.Click += Play_Click;
             // 
             // Exit
             // 
             Exit.FlatStyle = FlatStyle.Popup;
-            Exit.Location = new Point(242, 130);
+            Exit.Location = new Point(277, 161);
             Exit.Name = "Exit";
-            Exit.Size = new Size(109, 34);
+            Exit.Size = new Size(109, 47);
             Exit.TabIndex = 14;
             Exit.Text = "Sair";
             Exit.UseVisualStyleBackColor = true;
-            Exit.Click += Exit_Click;
+            // 
+            // labelStatus
+            // 
+            labelStatus.AutoSize = true;
+            labelStatus.Location = new Point(405, 161);
+            labelStatus.Name = "labelStatus";
+            labelStatus.Size = new Size(0, 32);
+            labelStatus.TabIndex = 15;
             // 
             // Velha
             // 
-            AutoScaleDimensions = new SizeF(11F, 25F);
+            AutoScaleDimensions = new SizeF(14F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Firebrick;
-            ClientSize = new Size(631, 489);
+            ClientSize = new Size(684, 489);
+            Controls.Add(labelStatus);
             Controls.Add(Exit);
             Controls.Add(Play);
             Controls.Add(Reset);
             Controls.Add(opcao);
             Controls.Add(Placar);
-            Controls.Add(groupBox1);
             Controls.Add(button9);
             Controls.Add(button8);
             Controls.Add(button7);
@@ -298,13 +279,12 @@
             Margin = new Padding(5);
             Name = "Velha";
             Text = "Jogo da Velha";
-            groupBox1.ResumeLayout(false);
-            groupBox1.PerformLayout();
             Placar.ResumeLayout(false);
             Placar.PerformLayout();
             opcao.ResumeLayout(false);
             opcao.PerformLayout();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -318,9 +298,6 @@
         private Button button7;
         private Button button8;
         private Button button9;
-        private GroupBox groupBox1;
-        private TextBox Player2;
-        private TextBox Player1;
         private GroupBox Placar;
         private Label Placar2;
         private Label Placar1;
@@ -332,5 +309,6 @@
         private Button Reset;
         private Button Play;
         private Button Exit;
+        private Label labelStatus;
     }
 }
